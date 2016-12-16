@@ -1,0 +1,74 @@
+<resources>
+    <!-- Main Activity strings set -->
+    <string name="app_name">EarTrainingApp</string>
+    <string name="start_button">Start</string>
+    <string name="practice_button">Practice</string>
+    <string name="stats_button">Stats</string>
+
+    <!-- First Level Activity strings set -->
+    <string name="first_level_activity_title">First Level: Intervals</string>
+    <string name="radio_button_minor_second">Minor Second</string>
+    <string name="radio_button_major_second">Major Second</string>
+    <string name="radio_button_minor_third">Minor Third</string>
+    <string name="radio_button_major_third">Major Third</string>
+    <string name="radio_button_perfect_fourth">Perfect Fourth</string>
+    <string name="radio_button_augmented_fourth">Augmented Fourth</string>
+    <string name="radio_button_perfect_fifth">Perfect Fifth</string>
+    <string name="radio_button_minor_sixth">Minor Sixth</string>
+    <string name="radio_button_major_sixth">Major Sixth</string>
+    <string name="radio_button_minor_seventh">Minor Seventh</string>
+    <string name="radio_button_major_seventh">Major Seventh</string>
+    <string name="radio_button_perfect_octave">Perfect Octave</string>
+    <string name="submit_button">Submit</string>
+    <string name="correct_answer">That\'s Right!</string>
+    <string name="wrong_answer">Too bad! The correct answer was:</string>
+    <string name="text_play_button_intervals">Play the Interval:</string>
+    <string name="exception1">You have to play the interval first!</string>
+    <string name="exception2">You have to select an answer first!!</string>
+    <string name="next_level">Well Done, let\'s increase the complexity!</string>
+
+    <!-- Second Level Activity strings set -->
+    <string name="second_level_activity_title">Second Level: Triads</string>
+    <string name="radio_button_minor_triad">Minor</string>
+    <string name="radio_button_major_triad">Major</string>
+    <string name="radio_button_augmented_triad">Augmented</string>
+    <string name="radio_button_diminished_triad">Diminished</string>
+    <string name="radio_button_sus2_triad">Sus 2</string>
+    <string name="radio_button_sus4_triad">Sus 4</string>
+    <string name="text_play_button_triads">Play the Triad:</string>
+
+    <!-- Third Level Activity strings set -->
+    <string name="third_level_activity_title">Level 3: Chords</string>
+    <string name="radio_button_minor7">Minor 7</string>
+    <string name="radio_button_major7">Major 7</string>
+    <string name="radio_button_min_maj7">Minor(maj7)</string>
+    <string name="radio_button_diminished7">Diminished 7</string>
+    <string name="radio_button_minor7_b5">Minor 7(b5)</string>
+    <string name="radio_button_dominant7">Dominant 7</string>
+    <string name="radio_button_augmented7">Augmented 7</string>
+    <string name="radio_button_dominant7_b5">Dominant 7(b5)</string>
+    <string name="text_play_button_chords">Play the Chord:</string>
+    <string name="game_over">GAME OVER\nWell Done Buddy!</string>
+
+    <!-- Info Activity strings set -->
+    <string name="info_activity_title">About the App</string>
+     <string name="info_text">The EarTrainingApp is intended for those, students or music\'s passionates, who want to improve their capabilities in sounds recognition.\nThe application is divided into
+         three levels:\n - Level 1: Intervals.\n - Level 2: Triads.\n - Level 3: Chords.\nThis provides an effective step to step learning approach.\nFor best results keep practicing
+         at least 5/10 minutes every day.\n</string>
+
+    <!-- Practice Activity strings set -->
+    <string name="practice_activity_title">Practice on:</string>
+    <string name="intervals_button">Intervals</string>
+    <string name="triads_button">Triads</string>
+    <string name="chords_button">Chords</string>
+
+    <!-- Action Bar Spinner strings set -->
+    <string name="action_bar_spinner"> Stats</string>
+    <string-array name="spinner_list_item_array">
+        <item>Correct Answers:</item>
+        <item>Hindi</item>
+    </string-array>
+
+    <!-- Action Button Spinner strings set -->
+    <string name="stats_action">Stats</string>
+</resources>
